@@ -11,3 +11,7 @@ and then
   allowBroken = true;
 }
 ```
+
+## Using tuna as mirror
+
+[link](https://mirrors.tuna.tsinghua.edu.cn/help/nix/)
